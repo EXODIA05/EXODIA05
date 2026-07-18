@@ -18,7 +18,7 @@
 
 ### 🚀 >_ SYS.INFO // ABOUT_ME
 
-- 🎓 **Location:** Sector 3 (3rd-year Computer Science student).
+- 🎓 **Location:** Sector 3 (CS MAJOR).
 - 🧠 **Prime Directives:** Artificial Intelligence, Machine Learning, and Cyber Threat Mitigation.
 - 🛡️ **Current Mission:** Hardening AI models against adversarial attacks and data poisoning.
 - 🌐 **Network:** [Connect on LinkedIn](#) | [Portfolio](#) | [Email](mailto:youremail@example.com)
@@ -53,13 +53,13 @@
 <div align="center">
   
   <!-- GitHub Stats (Radical Theme for Cyberpunk feel) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EXODIA05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EXODIA05&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
 
   <br><br>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXODIA05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%"/>
 
 </div>
 
@@ -69,7 +69,7 @@
 
 ```bash
 root@ai-sec-student:~# cat current_projects.txt
-[1] Securing Large Language Models against Jailbreak Vectors
+[1] ML ADAPTIVE VULNERABILITY SCANNER
 [2] Developing Adversarial Robustness Checkers in Python
 [3] Deploying Neural Nets on Linux Environments
 
