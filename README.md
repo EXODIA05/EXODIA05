@@ -1,7 +1,15 @@
 <div align="center">
   
   <!-- Cyberpunk Waving Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=200&section=header&text=AI%20//%20SEC%20//%20ENG&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=Securing%20the%20Neural%20Net&descAlignY=55&descAlign=50" />
+  <div align="center">
+  <!-- Main Blue Header Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=800&size=55&pause=2000&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=AI+%2F%2F+SEC+%2F%2F+ENG" alt="AI SEC ENG" />
+  
+  <br>
+  
+  <!-- Sub-header Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=400&size=25&pause=1500&color=0088FF&center=true&vCenter=true&width=800&height=50&lines=Securing+the+Neural+Net;Hunting+Adversarial+Threats_;System+Online." alt="Securing the Neural Net" />
+</div>
 
   <h2> 💻 SYSTEM.OUT.PRINTLN("HELLO, CHOOM."); </h2>
   <p><b>3rd Year CS Student | AI Security Specialist | ML Engineer</b></p>
