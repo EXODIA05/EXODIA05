@@ -12,7 +12,7 @@
 </div>
 
   <h2> 💻 SYSTEM.OUT.PRINTLN("HELLO, CHOOM."); </h2>
-  <p><b>3rd Year CS Student | AI Security Specialist | ML Engineer</b></p>
+  <p><b> CS MAJOR | SECURES AI| ML Enthusiast</b></p>
   
   <p>
     > Initializing sequence... <br>
@@ -29,7 +29,7 @@
 - 🎓 **Location:** Sector 3 (CS MAJOR).
 - 🧠 **Prime Directives:** Artificial Intelligence, Machine Learning, and Cyber Threat Mitigation.
 - 🛡️ **Current Mission:** Hardening AI models against adversarial attacks and data poisoning.
-- 🌐 **Network:** [Connect on LinkedIn](#) | [Portfolio](#) | [Email](mailto:youremail@example.com)
+- 🌐 **Network:** [Connect on LinkedIn](#) | [Portfolio](#) | [Email](alanmjose04@gmail.com)
 
 ---
 
