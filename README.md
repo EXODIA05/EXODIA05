@@ -13,7 +13,7 @@
 
 </div>
 
-<h2> 💻 SYSTEM.OUT.PRINTLN("HELLO, CHOOM."); </h2>
+<h2> 💻 SYSTEM.OUT.PRINTLN("I HAVE NO MOUTH AND I MUST SCREEN."); </h2>
 <p><b> CS MAJOR | SECURES AI | ML Enthusiast</b></p>
 
 <p>
