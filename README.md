@@ -44,7 +44,6 @@
 
 **`> NEURAL_LANGUAGES`** <br>
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF00FF)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FFFF)
 
 **`> AI_LIBRARIES`** <br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF00FF)
