@@ -29,7 +29,7 @@
 ### 🚀 >_ SYS.INFO // ABOUT_ME
 - 🎓 **Location:** Sector 3 (CS MAJOR).
 - 🧠 **Prime Directives:** Artificial Intelligence, Machine Learning, and Cyber Threat Mitigation.
-- 🛡️ **Current Mission:** Hardening AI models against adversarial attacks and data poisoning.
+- 🛡️ Current Mission: Learning to harden AI models against adversarial attacks and data poisoning.
 - 🌐 **Network:** [Connect on LinkedIn](#) | [Portfolio](#) | [Email](mailto:alanmjose04@gmail.com)
 
 ---
@@ -74,7 +74,7 @@
 ### 👾 >_ TERMINAL // RECENT_ACTIVITY
 ```bash
 root@ai-sec-student:~# cat current_projects.txt
-[1] ML ADAPTIVE VULNERABILITY SCANNER
+[1] ML ADAPTIVE LLM JAILBREAK
 [2] Developing Adversarial Robustness Checkers in Python
 [3] Deploying Neural Nets on Linux Environments
 root@ai-sec-student:~# status
