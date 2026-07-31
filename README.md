@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Main Blue Header Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=800&size=55&pause=2000&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=AI+%2F%2F+SEC+%2F%2F+ENG" alt="AI SEC ENG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=800&size=55&pause=2000&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=AI+%2F%2F+SEC+%2F%2F+ENG" alt="AI ENG" />
 
 <br>
 
