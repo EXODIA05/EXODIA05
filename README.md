@@ -10,15 +10,6 @@
 
 <p><b>Backend Engineering • AI Engineering • Machine Learning</b></p>
 
-```text
-> Booting Linux...
-> Loading Python Runtime...
-> Connecting PostgreSQL...
-> Starting FastAPI Server...
-> Training ML Models...
-> Ready.
-```
-
 </div>
 
 ---
@@ -35,13 +26,16 @@
 
 ### 🎯 Current Focus
 
-```
+```text
+✓ Python
 ✓ FastAPI
+✓ Flask
 ✓ PostgreSQL
 ✓ REST APIs
-✓ Machine Learning
-✓ Docker
 ✓ Linux
+✓ Git
+✓ Docker
+✓ Machine Learning
 ```
 
 ---
@@ -50,42 +44,33 @@
 
 <div align="center">
 
-## 🐍 Language
+### 🐍 Programming
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF)
+<img src="https://skillicons.dev/icons?i=python" />
 
----
+<br><br>
 
-## ⚡ Backend
+### ⚡ Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FFFF)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FFFF)
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
 
----
+<br><br>
 
-## 🗄 Database
+### 🗄 Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FFFF)
+<img src="https://skillicons.dev/icons?i=postgres" />
 
----
+<br><br>
 
-## 📊 Machine Learning
+### 💻 Development
 
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FFFF)
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
 
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FFFF)
+<br><br>
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00FFFF)
+### 📊 Machine Learning
 
----
-
-## 💻 Development
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FFFF)
-
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFFF)
-
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFFF)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn" />
 
 </div>
 
@@ -102,7 +87,7 @@
 
 [✓] Machine Learning Projects
 
-[✓] Data Analysis with Pandas
+[✓] Data Analysis using Pandas & NumPy
 ```
 
 ---
@@ -111,13 +96,33 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EXODIA05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=EXODIA05&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXODIA05&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 >_ CONTRIBUTION.GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EXODIA05&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 >_ GITHUB.TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=EXODIA05&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -127,9 +132,13 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://linkedin.com/in/YOUR_LINKEDIN)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFFF)](mailto:YOUR_EMAIL)
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -144,7 +153,7 @@ Backend Engineer
 Machine Learning Enthusiast
 Python Developer
 
-alan@linux:~$ current_stack
+alan@linux:~$ tech_stack
 
 Python
 FastAPI
@@ -152,6 +161,7 @@ Flask
 PostgreSQL
 Linux
 Git
+GitHub
 Docker
 NumPy
 Pandas
@@ -159,14 +169,23 @@ Scikit-Learn
 
 alan@linux:~$ roadmap
 
-> Backend Engineering
-> AI Engineering
-> MLOps
-> Distributed Systems
+Backend Engineering
+AI Engineering
+Machine Learning
+MLOps
+Cloud Computing
 
-Status:
-██████████████░░░░░ 70%
+alan@linux:~$ status
 
-Next Objective:
-> Production-grade Backend Systems
+████████████████████░░░░ 80%
+
+Ready for Backend & ML Internships.
 ```
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=EXODIA05&color=00ffff&style=for-the-badge)
+
+</div>
