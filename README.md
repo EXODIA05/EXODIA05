@@ -1,82 +1,172 @@
 <div align="center">
 
-<!-- Cyberpunk Waving Banner -->
-<div align="center">
-
-<!-- Main Blue Header Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=800&size=55&pause=2000&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=AI+%2F%2F+SEC+%2F%2F+ENG" alt="AI ENG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=800&size=52&pause=2000&color=00F7FF&center=true&vCenter=true&width=900&height=90&lines=BACKEND+%2F%2F+AI+ENGINEERING" />
 
 <br>
 
-<!-- Sub-header Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=400&size=25&pause=1500&color=0088FF&center=true&vCenter=true&width=800&height=50&lines=Securing+the+Neural+Net;Hunting+Adversarial+Threats_;System+Online." alt="Securing the Neural Net" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&pause=1600&color=6CF7FF&center=true&vCenter=true&width=900&height=45&lines=Building+Scalable+APIs;Learning+Machine+Learning;Engineering+Production+Ready+Systems" />
 
-</div>
+<h2>💻 SYSTEM.OUT.PRINTLN("Build. Learn. Deploy.");</h2>
 
-<h2> 💻 SYSTEM.OUT.PRINTLN("I HAVE NO MOUTH AND I MUST SCREAM."); </h2>
-<p><b> CS MAJOR | SECURES AI | ML Enthusiast</b></p>
+<p><b>Backend Engineering • AI Engineering • Machine Learning</b></p>
 
-<p>
-  > Initializing sequence... <br>
-  > Loading neural pathways... <br>
-  > Defending algorithms from the shadows.
-</p>
+```text
+> Booting Linux...
+> Loading Python Runtime...
+> Connecting PostgreSQL...
+> Starting FastAPI Server...
+> Training ML Models...
+> Ready.
+```
 
 </div>
 
 ---
 
-### 🚀 >_ SYS.INFO // ABOUT_ME
-- 🎓 **Location:** Sector 3 (CS MAJOR).
-- 🧠 **Prime Directives:** Artificial Intelligence, Machine Learning, and Cyber Threat Mitigation.
-- 🛡️ Current Mission: Learning to harden AI models against adversarial attacks and data poisoning.
-- 🌐 **Network:** [Connect on LinkedIn](#) | [Portfolio](#) | [Email](mailto:alanmjose04@gmail.com)
+# 🚀 >_ SYSTEM.INFO
+
+### 👨‍💻 Profile
+
+- 🎓 Computer Science Student
+- 🐍 Python Developer
+- ⚡ Backend Engineering
+- 🤖 Machine Learning
+- ☁️ Learning Cloud & DevOps
+
+### 🎯 Current Focus
+
+```
+✓ FastAPI
+✓ PostgreSQL
+✓ REST APIs
+✓ Machine Learning
+✓ Docker
+✓ Linux
+```
 
 ---
 
-### ⚙️ >_ TECH.STACK // SKILLS
+# ⚙️ >_ TECH.STACK
+
 <div align="center">
 
-**`> BASE_SYSTEMS`** <br>
+## 🐍 Language
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF)
+
+---
+
+## ⚡ Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FFFF)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FFFF)
+
+---
+
+## 🗄 Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FFFF)
+
+---
+
+## 📊 Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FFFF)
+
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FFFF)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00FFFF)
+
+---
+
+## 💻 Development
+
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FFFF)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=FF00FF)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FFFF)
 
-**`> NEURAL_LANGUAGES`** <br>
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF00FF)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFFF)
 
-**`> AI_LIBRARIES`** <br>
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF00FF)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FFFF)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=FF00FF)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00FFFF)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFFF)
 
 </div>
 
 ---
 
-### 📊 >_ DATA.MATRIX // STATS & CONTRIBUTIONS
+# 📂 >_ CURRENT.PROJECTS
+
+```text
+[✓] FastAPI Authentication API
+
+[✓] PostgreSQL CRUD Backend
+
+[✓] Dockerized REST API
+
+[✓] Machine Learning Projects
+
+[✓] Data Analysis with Pandas
+```
+
+---
+
+# 📊 >_ GITHUB.STATS
+
 <div align="center">
 
-<!-- GitHub Stats (Radical Theme for Cyberpunk feel) -->
-<img src="https://github-readme-stats.vercel.app/api?username=EXODIA05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EXODIA05&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXODIA05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-### 👾 >_ TERMINAL // RECENT_ACTIVITY
+# 📡 >_ CONNECT
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFFF)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+# 💻 >_ TERMINAL
+
 ```bash
-root@ai-sec-student:~# cat current_projects.txt
-[1] ML ADAPTIVE LLM JAILBREAK
-[2] Developing Adversarial Robustness Checkers in Python
-[3] Deploying Neural Nets on Linux Environments
-root@ai-sec-student:~# status
->> ALL SYSTEMS NOMINAL. READY TO COMMIT.
+alan@linux:~$ whoami
+
+Backend Engineer
+Machine Learning Enthusiast
+Python Developer
+
+alan@linux:~$ current_stack
+
+Python
+FastAPI
+Flask
+PostgreSQL
+Linux
+Git
+Docker
+NumPy
+Pandas
+Scikit-Learn
+
+alan@linux:~$ roadmap
+
+> Backend Engineering
+> AI Engineering
+> MLOps
+> Distributed Systems
+
+Status:
+██████████████░░░░░ 70%
+
+Next Objective:
+> Production-grade Backend Systems
 ```
