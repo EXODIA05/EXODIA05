@@ -1,74 +1,35 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=800&size=52&pause=2000&color=00F7FF&center=true&vCenter=true&width=900&height=90&lines=BACKEND+%2F%2F+AI+ENGINEERING" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=800&size=48&pause=2000&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=DATA+%2F%2F+AI+%2F%2F+ML" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&pause=1600&color=6CF7FF&center=true&vCenter=true&width=900&height=45&lines=Building+Scalable+APIs;Learning+Machine+Learning;Engineering+Production+Ready+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&pause=1600&color=6CF7FF&center=true&vCenter=true&width=900&height=40&lines=Turning+Data+Into+Insights;Building+Intelligent+Systems" />
 
-<h2>💻 SYSTEM.OUT.PRINTLN("Build. Learn. Deploy.");</h2>
-
-<p><b>Backend Engineering • AI Engineering • Machine Learning</b></p>
+<h3>📊 Data Analyst • 🤖 Data Scientist • 🧠 AI Engineer</h3>
 
 </div>
 
 ---
 
-# 🚀 >_ SYSTEM.INFO
+## 👨‍💻 About Me
 
-### 👨‍💻 Profile
-
-- 🎓 Computer Science Student
-- 🐍 Python Developer
-- ⚡ Backend Engineering
-- 🤖 Machine Learning
-- ☁️ Learning Cloud & DevOps
-
-### 🎯 Current Focus
-
-```text
-✓ Python
-✓ FastAPI
-✓ Flask
-✓ PostgreSQL
-✓ REST APIs
-✓ Linux
-✓ Git
-✓ Docker
-✓ Machine Learning
-```
+* 🎓 Computer Science Student
+* 🐍 Python & SQL
+* 📊 Data Analysis & Visualization
+* 🤖 Machine Learning & NLP
+* 🧠 AI Engineering
+* 🚀 Building practical ML systems
 
 ---
 
-# ⚙️ >_ TECH.STACK
+## ⚙️ Tech Stack
 
 <div align="center">
 
-### 🐍 Programming
-
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,postgres,git,github,linux,docker,vscode" />
 
 <br><br>
-
-### ⚡ Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask" />
-
-<br><br>
-
-### 🗄 Database
-
-<img src="https://skillicons.dev/icons?i=postgres" />
-
-<br><br>
-
-### 💻 Development
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
-
-<br><br>
-
-### 📊 Machine Learning
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn" />
 
@@ -76,59 +37,29 @@
 
 ---
 
-# 📂 >_ CURRENT.PROJECTS
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EXODIA05&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=EXODIA05&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Currently Learning
 
 ```text
-[✓] FastAPI Authentication API
+Data Analytics → Data Science → AI Engineering
 
-[✓] PostgreSQL CRUD Backend
-
-[✓] Dockerized REST API
-
-[✓] Machine Learning Projects
-
-[✓] Data Analysis using Pandas & NumPy
+SQL • Statistics • Machine Learning • NLP • MLOps
 ```
 
 ---
 
-# 📊 >_ GITHUB.STATS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EXODIA05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=EXODIA05&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXODIA05&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 >_ CONTRIBUTION.GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EXODIA05&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 >_ GITHUB.TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EXODIA05&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📡 >_ CONNECT
+## 📡 Connect
 
 <div align="center">
 
@@ -136,56 +67,18 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:alanmexodia@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
----
-
-# 💻 >_ TERMINAL
-
-```bash
-alan@linux:~$ whoami
-
-Backend Engineer
-Machine Learning Enthusiast
-Python Developer
-
-alan@linux:~$ tech_stack
-
-Python
-FastAPI
-Flask
-PostgreSQL
-Linux
-Git
-GitHub
-Docker
-NumPy
-Pandas
-Scikit-Learn
-
-alan@linux:~$ roadmap
-
-Backend Engineering
-AI Engineering
-Machine Learning
-MLOps
-Cloud Computing
-
-alan@linux:~$ status
-
-████████████████████░░░░ 80%
-
-Ready for Backend & ML Internships.
-```
-
----
+<br>
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=EXODIA05&color=00ffff&style=for-the-badge)
+`DATA → INSIGHTS → ML → AI`
+
+![](https://komarev.com/ghpvc/?username=EXODIA05\&color=00ffff\&style=for-the-badge)
 
 </div>
