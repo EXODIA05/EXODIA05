@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&pause=1600&color=6CF7FF&center=true&vCenter=true&width=900&height=40&lines=Turning+Data+Into+Insights;Building+Intelligent+Systems" />
 
-<h3>📊 Data Analyst • 🤖 Data Scientist • 🧠 AI Engineer</h3>
+<h3>• 🤖 Data Science • 🧠 AI Engineering</h3>
 
 </div>
 
@@ -16,7 +16,6 @@
 
 * 🎓 Computer Science Student
 * 🐍 Python & SQL
-* 📊 Data Analysis & Visualization
 * 🤖 Machine Learning & NLP
 * 🧠 AI Engineering
 * 🚀 Building practical ML systems
