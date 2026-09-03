@@ -30,7 +30,7 @@
 
 <br><br>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,pytorch" />
 
 </div>
 
