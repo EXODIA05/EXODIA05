@@ -18,7 +18,7 @@
 * 🐍 Python & SQL
 * 🤖 Machine Learning & NLP
 * 🧠 AI Engineering
-* 🚀 Building practical ML systems
+* 🚀 GENAI
 
 ---
 
