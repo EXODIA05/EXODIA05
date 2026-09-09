@@ -1,83 +1,52 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=800&size=48&pause=2000&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=DATA+%2F%2F+AI+%2F%2F+ML" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=46&pause=2000&color=00FF41&center=true&vCenter=true&width=900&height=70&lines=CYBERSECURITY+%2F%2F+PYTHON" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&pause=1600&color=6CF7FF&center=true&vCenter=true&width=900&height=40&lines=Turning+Data+Into+Insights;Building+Intelligent+Systems" />
-
-<h3>• 🤖 Data Science • 🧠 AI Engineering</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=19&pause=1600&color=00FF41&center=true&vCenter=true&width=900&height=35&lines=NETWORK+SECURITY+%7C+LINUX+%7C+AI+SECURITY" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
 * 🎓 Computer Science Student
-* 🐍 Python & SQL
-* 🤖 Machine Learning & NLP
-* 🧠 AI Engineering
-* 🚀 GENAI
+* 🐍 Python
+* 🐧 Linux
+* 🌐 Networking & Security
+* 🤖 AI / ML
+* 🔐 LLM Security
 
 ---
 
-## ⚙️ Tech Stack
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,git,github,linux,docker,vscode" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EXODIA05&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9"/>
 
-<br><br>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,pytorch" />
+<img height="170" src="https://streak-stats.demolab.com?user=EXODIA05&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EXODIA05&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=EXODIA05&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🎯 Currently Learning
-
-```text
-Data Analytics → Data Science → AI Engineering
-
-SQL • Statistics • Machine Learning • NLP • MLOps
-```
-
----
-
-## 📡 Connect
+## Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
 </a>
 
 <a href="mailto:alanmexodia@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-`DATA → INSIGHTS → ML → AI`
-
-![](https://komarev.com/ghpvc/?username=EXODIA05\&color=00ffff\&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=EXODIA05\&color=00ff41\&style=for-the-badge)
 
 </div>
