@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=46&pause=2000&color=00FF41&center=true&vCenter=true&width=900&height=70&lines=CYBERSECURITY+%2F%2F+PYTHON" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=46&pause=2000&color=00FF41&center=true&vCenter=true&width=900&height=70&lines=CYBERSEC+%2F%2F" />
 
 <br>
 
